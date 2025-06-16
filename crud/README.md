@@ -1,6 +1,6 @@
-# crud
+# Dependecies:
 
-A new Flutter project.
+Image Picker
 
 ## Getting Started
 
