@@ -1,7 +1,7 @@
 # Dependecies:
 
 Image Picker
-
+Device Preview
 ## Getting Started
 
 This project is a starting point for a Flutter application.
